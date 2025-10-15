@@ -17,7 +17,7 @@ TC-LAB08-Complejidad/
 ├─ Problem 3/
 │  ├─ problem3.py
 │  └─ profile_p3.py      # Guarda p3_demo.png en esta misma carpeta
-└─ Escritos/             # (sugerido) PDF con las partes teóricas P1.a–P5
+└─ Escritos/             
 ```
 
 ## Requisitos
